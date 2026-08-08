@@ -202,7 +202,7 @@ Entering the Analytics responses section, I engage in incident response activiti
 
 | Metric | Before Hardening | After Hardening | Percentage Change (%) |
 | --- | --- | --- | --- |
-| SecurityEvent | 7394 | 4523 | -38.83% |
+| SecurityEvent | 7833 | 4523 | -42.26% |
 | Syslog | 725 | 3 | -99.59% |
 | SecurityAlert | 4 | 0 | -100% |
 | SecurityIncident | 8 | 0 | -100% |
